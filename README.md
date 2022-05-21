@@ -12,7 +12,7 @@ I've been learning code for 2 years.I know HTML, CSS, JAVASCRIPT, REACTJS, NEXTJ
 * 🚀  I'm currently working on [Duty-Pedia](http://dutypedia.com)
 * 🧠  I'm learning Node Js ,Mongodb
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  I'm secrectly spiderman but did't tell anyone
+* ⚡  I'm secrectly spiderman but didn't tell anyone
 
 ### Skills
 
