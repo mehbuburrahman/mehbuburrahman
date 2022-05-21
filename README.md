@@ -5,6 +5,7 @@ Front End Web Developer
 -----------------------
 
 I've been learning code for 2 years.I know HTML, CSS, JAVASCRIPT, REACTJS, NEXTJS, TAILWINDCSS, BOOTSTRAP,WORDPRESS,PHP.Programming is my passion. I love doing code all the time.
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [romaxdev](http://romaxdev.xyz)
